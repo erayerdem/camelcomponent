@@ -1,0 +1,5 @@
+com/eray/EchoComponent.class
+com/eray/EchoProducer.class
+com/eray/EchoEndpoint.class
+com/eray/EchoEndpointConfigurer.class
+com/eray/EchoComponentConfigurer.class
